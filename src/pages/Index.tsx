@@ -14,7 +14,12 @@ const monuments = [
     height: '146,5 метров (изначально)',
     description: 'Великая пирамида Хуфу — единственное из Семи чудес света Древнего мира, сохранившееся до наших дней. Построена с невероятной точностью: отклонение основания составляет всего 58 мм.',
     facts: ['Вес каждого блока: 2,5-15 тонн', 'Стороны ориентированы строго по сторонам света', 'Внутри три погребальные камеры'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6d5e94a8-f479-49b2-b8b7-854eb7ab6ba5.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6d5e94a8-f479-49b2-b8b7-854eb7ab6ba5.jpg',
+    gallery: [
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6d5e94a8-f479-49b2-b8b7-854eb7ab6ba5.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/2ec0ed77-fa22-41e3-b2ac-58116b25693b.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6c1f59e0-68e1-4a05-9e58-bfe5766098a8.jpg'
+    ]
   },
   {
     id: 2,
@@ -25,7 +30,12 @@ const monuments = [
     height: '20 метров, длина 73 метра',
     description: 'Древнейшая монументальная скульптура, изображающая лежащего льва с человеческой головой. Охраняет пирамиды Гизы на протяжении 4500 лет.',
     facts: ['Лицо Сфинкса повреждено (нос отбит)', 'Между лап находится стела Тутмоса IV', 'Вырублен из цельной скалы'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6c1f59e0-68e1-4a05-9e58-bfe5766098a8.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6c1f59e0-68e1-4a05-9e58-bfe5766098a8.jpg',
+    gallery: [
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6c1f59e0-68e1-4a05-9e58-bfe5766098a8.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/bcdcd748-2023-456b-b45c-1c9a7d24a1ed.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6d5e94a8-f479-49b2-b8b7-854eb7ab6ba5.jpg'
+    ]
   },
   {
     id: 3,
@@ -36,7 +46,12 @@ const monuments = [
     height: 'Колоннада 21 метр',
     description: 'Величественный храм, посвященный богу Амону-Ра. Соединялся с Карнакским храмом трехкилометровой Аллеей сфинксов.',
     facts: ['260 метров в длину', '14 колонн в виде папируса', 'Два обелиска (один увезен в Париж)'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/f01a27b5-121d-463a-99e5-516856397949.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/f01a27b5-121d-463a-99e5-516856397949.jpg',
+    gallery: [
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/f01a27b5-121d-463a-99e5-516856397949.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/d7c7ffe6-21cf-428c-821e-3cd3cb787f47.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg'
+    ]
   },
   {
     id: 4,
@@ -47,7 +62,12 @@ const monuments = [
     height: 'Великий гипостильный зал: 134 колонны до 21 м',
     description: 'Крупнейший храмовый комплекс Древнего Египта. Каждый фараон добавлял свои постройки, создав архитектурный лабиринт.',
     facts: ['Площадь 80 гектаров', 'Священное озеро 120×77 метров', 'Обелиск Хатшепсут высотой 30 метров'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg',
+    gallery: [
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/9b2e793d-be99-41ae-83cc-4cecb12bf5ed.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/f01a27b5-121d-463a-99e5-516856397949.jpg'
+    ]
   },
   {
     id: 5,
@@ -58,7 +78,12 @@ const monuments = [
     height: 'Статуи Рамсеса: 20 метров',
     description: 'Два храма, вырубленные в скале. Дважды в год солнце освещает статую Рамсеса в глубине храма — феномен, рассчитанный древними архитекторами.',
     facts: ['4 колосса Рамсеса у входа', 'Перенесен в 1960-х годов из-за строительства дамбы', 'Малый храм посвящен Нефертари'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/c9d409b9-bd66-4987-9b0c-c5f9646f5252.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/c9d409b9-bd66-4987-9b0c-c5f9646f5252.jpg',
+    gallery: [
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/c9d409b9-bd66-4987-9b0c-c5f9646f5252.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/289f5b47-a86c-4d77-8209-af4602b71719.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/d7c7ffe6-21cf-428c-821e-3cd3cb787f47.jpg'
+    ]
   }
 ];
 
@@ -224,24 +249,26 @@ export default function Index() {
           </p>
           
           <div className="grid md:grid-cols-3 gap-4">
-            {monuments.slice(0, 3).map((monument, index) => (
-              <div 
-                key={monument.id}
-                className="relative h-80 overflow-hidden rounded-lg group cursor-pointer"
-              >
-                <img 
-                  src={monument.image} 
-                  alt={monument.title}
-                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                  <div>
-                    <h4 className="text-xl font-bold text-white mb-2">{monument.title}</h4>
-                    <p className="text-sm text-white/80">{monument.period}</p>
+            {monuments.flatMap((monument) => 
+              monument.gallery.map((img, idx) => (
+                <div 
+                  key={`${monument.id}-${idx}`}
+                  className="relative h-80 overflow-hidden rounded-lg group cursor-pointer"
+                >
+                  <img 
+                    src={img} 
+                    alt={`${monument.title} ${idx + 1}`}
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
+                    <div>
+                      <h4 className="text-xl font-bold text-white mb-2">{monument.title}</h4>
+                      <p className="text-sm text-white/80">{monument.period}</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
+              ))
+            )}
           </div>
           
           <div className="text-center mt-12">
