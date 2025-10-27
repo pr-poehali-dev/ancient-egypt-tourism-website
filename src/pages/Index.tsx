@@ -25,7 +25,7 @@ const monuments = [
     height: '20 метров, длина 73 метра',
     description: 'Древнейшая монументальная скульптура, изображающая лежащего льва с человеческой головой. Охраняет пирамиды Гизы на протяжении 4500 лет.',
     facts: ['Лицо Сфинкса повреждено (нос отбит)', 'Между лап находится стела Тутмоса IV', 'Вырублен из цельной скалы'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6d5e94a8-f479-49b2-b8b7-854eb7ab6ba5.jpg'
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/6c1f59e0-68e1-4a05-9e58-bfe5766098a8.jpg'
   },
   {
     id: 3,
