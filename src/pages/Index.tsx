@@ -55,18 +55,18 @@ const monuments = [
   },
   {
     id: 4,
-    title: 'Карнакский храм',
-    period: '2055-100 гг. до н.э. (строился 2000 лет)',
-    builder: 'Множество фараонов',
-    material: 'Песчаник, гранит',
-    height: 'Великий гипостильный зал: 134 колонны до 21 м',
-    description: 'Крупнейший храмовый комплекс Древнего Египта. Каждый фараон добавлял свои постройки, создав архитектурный лабиринт.',
-    facts: ['Площадь 80 гектаров', 'Священное озеро 120×77 метров', 'Обелиск Хатшепсут высотой 30 метров'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg',
+    title: 'Ступенчатая пирамида Джосера',
+    period: '2667-2648 гг. до н.э.',
+    builder: 'Фараон Джосер, архитектор Имхотеп',
+    material: 'Известняковые блоки',
+    height: '62,5 метра (6 ступеней)',
+    description: 'Первая пирамида в истории человечества, построенная гениальным архитектором Имхотепом. Революционное сооружение, положившее начало эпохе пирамид в Древнем Египте.',
+    facts: ['Первая каменная постройка такого масштаба', 'Комплекс занимает 15 гектаров', 'Подземная галерея длиной 6 км'],
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/3551aafb-232b-489d-9da5-a8888b8c9735.jpg',
     gallery: [
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/8764f2c4-6d19-494c-8dae-58216f4486ef.jpg',
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/9b2e793d-be99-41ae-83cc-4cecb12bf5ed.jpg',
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/f01a27b5-121d-463a-99e5-516856397949.jpg'
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/3551aafb-232b-489d-9da5-a8888b8c9735.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/71998df3-3fc0-4b86-b8d0-99b619ae852d.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/9b2e793d-be99-41ae-83cc-4cecb12bf5ed.jpg'
     ]
   },
   {
