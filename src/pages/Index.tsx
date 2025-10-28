@@ -62,11 +62,11 @@ const monuments = [
     height: '62,5 метра (6 ступеней)',
     description: 'Первая пирамида в истории человечества, построенная гениальным архитектором Имхотепом. Революционное сооружение, положившее начало эпохе пирамид в Древнем Египте.',
     facts: ['Первая каменная постройка такого масштаба', 'Комплекс занимает 15 гектаров', 'Подземная галерея длиной 6 км'],
-    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/3551aafb-232b-489d-9da5-a8888b8c9735.jpg',
+    image: 'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/2feccccd-53ae-464d-a164-ed186fabd0e8.jpg',
     gallery: [
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/3551aafb-232b-489d-9da5-a8888b8c9735.jpg',
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/71998df3-3fc0-4b86-b8d0-99b619ae852d.jpg',
-      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/9b2e793d-be99-41ae-83cc-4cecb12bf5ed.jpg'
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/2feccccd-53ae-464d-a164-ed186fabd0e8.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/16f23916-2af7-4ba6-9173-665625f6cc6c.jpg',
+      'https://cdn.poehali.dev/projects/b6ed16c0-1fa2-43e2-88e5-465b58fcb42a/files/fe049a32-062d-4fbe-8ba9-dc9d14335eac.jpg'
     ]
   },
   {
